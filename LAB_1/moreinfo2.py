@@ -8,7 +8,7 @@
 
 ##pic_me =
 description_me = "Outside of my academic aspects, I have a lot that defines me. Scroll down to find out more about me!"
-meboba11 = "Images/meboba.jpg"
+meboba11 = "LAB_1/Images/meboba.jpg"
 
 
 #hobbies me
@@ -38,4 +38,5 @@ hobbies_11 = {
 
 
   
+
 
