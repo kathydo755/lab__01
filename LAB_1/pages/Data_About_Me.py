@@ -77,7 +77,7 @@ correct = ["Grey"]
 select_color = more_quiz()
 st.write("You picked", select_color)
 if select_color in correct:
-    st.success("Thats right, I love to crochet. :)")
+    st.success("Thats right! :)")
 else:
     st.error("Try again :(")
 
@@ -101,3 +101,4 @@ def end():
     st.write("Thank you for taking my quiz and learning about me!")
 end()
              
+
